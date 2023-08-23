@@ -62,24 +62,6 @@ export const CarsView =/*html*/`
   </section>
 
     <section class="row justify-content-center" id="cars">
-      <!-- STUB car template -->
-      <!-- <div class="col-md-10 elevation-5 rounded-top">
-        <div class="row">
-          <div class="col-4 p-0">
-            <img class="img-fluid rounded-start"
-              src="https://bringatrailer.com/wp-content/uploads/2020/05/2011_bmw_335_15901301926d884f6124Photo-May-03-1-45-59-PM.jpg?fit=940%2C627"
-              alt="make model">
-          </div>
-          <div class="col-8">
-            <h2 class="text-center">Year Make Model</h2>
-            <div class="d-flex justify-content-around pt-3">
-              <span>$Price</span>
-              <span>Date</span>
-            </div>
-            <p>Description</p>
-          </div>
-        </div>
-      </div> -->
 
     </section>
   
