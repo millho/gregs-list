@@ -6,7 +6,7 @@ export const HousesView = `
 
     <div class="collapse" id="houseFormCollapse">
 
-      <form class="row p-2" onsubmit="">
+      <form class="row p-2" onsubmit="app.HousesController.createHouse()">
 
         <div class="form-floating mb-3 col-4">
           <input required type="text" minLength="3" maxLength="15" class="form-control" id="houseBed" name="make" placeholder="# of bedrooms">
